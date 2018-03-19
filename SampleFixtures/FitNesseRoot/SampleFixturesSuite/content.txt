@@ -3,3 +3,4 @@
 !define TEST_SYSTEM {slim}
 !define TEST_RUNNER {./SampleFixtures}
 !define COMMAND_PATTERN {%m -port}
+!define slim.port {8085}
