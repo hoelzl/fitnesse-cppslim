@@ -52,6 +52,7 @@ set(
     SampleFixtures/SimpleTable.cpp
     SampleFixtures/ShouldBuyMilk.cpp
     SampleFixtures/TestSlim.cpp
+    SampleFixtures/CustomDataType.cpp
 )
 
 set(
@@ -75,7 +76,7 @@ set(
     fitnesse/cppslim/Slim.h
     fitnesse/cppslim/TableFixture.h
     fitnesse/cppslim/TypeConverters.h
-)
+        SampleFixtures/CustomDataType.cpp)
 
 add_executable(
      SampleFixtures
