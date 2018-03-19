@@ -94,7 +94,7 @@ target_link_libraries(
 enable_testing()
 
 # download fitnesse server package
-set(FITNESSE_SERVER_JAR fitnesse-standalone-20140901.jar)
+set(FITNESSE_SERVER_JAR fitnesse-standalone-2018-01-27.jar)
 #message("fetching fitnesse server package")
 #file(
 #    DOWNLOAD
