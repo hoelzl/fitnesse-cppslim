@@ -7,3 +7,6 @@ CMakeLists.txt.user
 !/SampleFixtures/FitNesseRoot/SampleFixturesSuite
 
 qtcreator-build
+
+.idea/
+cmake-build-debug/
